@@ -13,7 +13,7 @@
     "bin",
     "lib"
   ],
-  "main": "index.js",
+  "main": "lib/js/index.js",
   "name": "dh-scripts-base",
   "scripts": {
     "build": "dh-run build",
