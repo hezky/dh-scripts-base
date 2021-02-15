@@ -1,0 +1,25 @@
+{
+  "author": "David Hezky",
+  "description": "basic functionality scripts",
+  "dependencies": {
+    "dh-dependency-base": "^0.0.33",
+    "dh-scripts-run": "^0.1.5",
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "babel-plugin-module-resolver": "^4.1.0"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "main": "index.js",
+  "name": "dh-scripts-base",
+  "scripts": {
+    "build": "dh-run build",
+    "eslint": "dh-run eslint",
+    "prepublishOnly": "dh-run prepublishOnly",
+    "test": "dh-run test"
+  },
+  "version": "0.0.1"
+}
