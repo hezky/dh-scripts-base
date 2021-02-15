@@ -3,7 +3,7 @@
   "description": "basic functionality scripts",
   "dependencies": {
     "dh-dependency-base": "^0.0.33",
-    "dh-scripts-run": "^0.1.5",
+    "dh-scripts-run": "^0.1.6",
     "chalk": "^4.1.0"
   },
   "devDependencies": {
