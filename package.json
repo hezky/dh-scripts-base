@@ -2,8 +2,8 @@
   "author": "David Hezky",
   "description": "basic functionality scripts",
   "dependencies": {
-    "dh-dependency-base": "^0.0.33",
-    "dh-scripts-run": "^0.1.6",
+    "@dh-js/dependency-base": "^0.0.43",
+    "dh-scripts-run": "^0.1.9",
     "chalk": "^4.1.0"
   },
   "devDependencies": {
@@ -17,6 +17,7 @@
   "name": "dh-scripts-base",
   "scripts": {
     "build": "dh-run build",
+    "clean": "dh-run clean",
     "eslint": "dh-run eslint",
     "prepublishOnly": "dh-run prepublishOnly",
     "test": "dh-run test"

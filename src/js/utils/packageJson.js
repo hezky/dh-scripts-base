@@ -1,5 +1,5 @@
 import { CWD_PACKAGE_JSON } from "consts/dirs";
 
-const pjson = require(CWD_PACKAGE_JSON);
+const packageJson = require(CWD_PACKAGE_JSON);
 
-export default pjson;
+export default packageJson;
