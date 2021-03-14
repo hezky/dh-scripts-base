@@ -3,7 +3,7 @@
   "description": "basic functionality scripts",
   "dependencies": {
     "@dh-js/dependency-base": "^0.0.43",
-    "dh-scripts-run": "^0.1.9",
+    "@dh-js/scripts-run": "^0.1.9",
     "chalk": "^4.1.0"
   },
   "devDependencies": {
@@ -14,7 +14,7 @@
     "lib"
   ],
   "main": "lib/js/index.js",
-  "name": "dh-scripts-base",
+  "name": "@dh-js/utils-scripts",
   "scripts": {
     "build": "dh-run build",
     "clean": "dh-run clean",
