@@ -2,9 +2,9 @@
   "author": "David Hezky",
   "description": "basic functionality scripts",
   "dependencies": {
-    "@dh-js/dependency-base": "^0.0.46",
-    "@dh-js/scripts-run": "^0.1.32",
-    "chalk": "^4.1.0"
+    "@dh-js/dependency-base": "^0.0.47",
+    "@dh-js/scripts-run": "^0.1.33",
+    "chalk": "^4.1.1"
   },
   "devDependencies": {
     "babel-plugin-module-resolver": "^4.1.0"
@@ -14,7 +14,7 @@
     "lib"
   ],
   "main": "lib/js/index.js",
-  "name": "@dh-js/utils-scripts",
+  "name": "@dh-js/scripts-base",
   "scripts": {
     "build": "dh-run build",
     "clean": "dh-run clean",
