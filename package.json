@@ -2,9 +2,9 @@
   "author": "David Hezky",
   "description": "basic functionality scripts",
   "dependencies": {
-    "@dh-js/dependency-base": "^0.0.47",
-    "@dh-js/scripts-run": "^0.1.33",
-    "chalk": "^4.1.1"
+    "@dh-dependency/base": "^0.0.55",
+    "@dh-scripts/run": "^0.2.4",
+    "chalk": "^4.1.2"
   },
   "devDependencies": {
     "babel-plugin-module-resolver": "^4.1.0"
