@@ -14,7 +14,7 @@
     "lib"
   ],
   "main": "lib/js/index.js",
-  "name": "@dh-js/scripts-base",
+  "name": "@dh-scripts/base",
   "scripts": {
     "build": "dh-run build",
     "clean": "dh-run clean",
